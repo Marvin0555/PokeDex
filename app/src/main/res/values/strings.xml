@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pikachu_bulbasaur_etc">pikachu, bulbasaur, etc...</string>
+    <string name="text_start">Digite o nome ou número\ndo Pokémon para buscar</string>
+</resources>
